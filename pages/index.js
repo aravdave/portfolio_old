@@ -23,7 +23,7 @@ export default function Home() {
           alt="Smiling Arav"
         />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Hi! This page is under development.
         </p>
       </main>
 

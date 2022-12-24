@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Made by Arav Dave
+        Copyright © {new Date().getFullYear()} by Arav Dave
       </footer>
     </>
   )
